@@ -1,2 +1,4 @@
 #!/bin/bash
-mkdir /tmp/My second_directory
+ls -l
+ls -n
+ls -la
